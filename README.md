@@ -18,15 +18,6 @@ I am a computer engineering college student with a strong focus on Linux, AI, ro
 - Hardware repair, assembly, and system-level troubleshooting
 
 ## Hardware Projects
-- Laptop rebuild and Linux customization
-  - Repaired a laptop from scratch, installed new hardware components, and configured a customized Linux environment.
-  - Optimized the system for AI and embedded projects.
-
-- AI-assisted trashcan prototype (hackathon)
-  - Developed a proof-of-concept trash detection system within 24 hours at a hackathon.
-  - The prototype uses AI to determine whether an object placed inside is trash or recyclable.
-  - Designed the system to improve sorting accuracy and provide a practical AI-driven environmental solution.
-
 - AI-enabled home security system (WIP)
   - Developing a prototype security system with motion detection and user recognition.
   - When a door opens, the system captures an image and checks it against a user database.
@@ -35,6 +26,15 @@ I am a computer engineering college student with a strong focus on Linux, AI, ro
 - FPGA-based CPU
   - Designed and implemented a simple CPU using FPGA logic.
   - Includes an ALU, control unit, input module, and output module.
+    
+- Laptop rebuild and Linux customization
+  - Repaired a laptop from scratch, installed new hardware components, and configured a customized Linux environment.
+  - Optimized the system for AI and embedded projects.
+
+- AI-assisted trashcan prototype (hackathon)
+  - Developed a proof-of-concept trash detection system within 24 hours at a hackathon.
+  - The prototype uses AI to determine whether an object placed inside is trash or recyclable.
+  - Designed the system to improve sorting accuracy and provide a practical AI-driven environmental solution.
 
 ## Software Projects
 - AI terminal assistant - Locally hosted
