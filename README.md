@@ -24,6 +24,7 @@ I am a computer engineering college student with a strong focus on Linux, AI, ro
   - If the person is not recognized, the design includes tracking movement and responding with a laser targeting feature.
 
 - FPGA-based CPU
+  - 8 bit - two Function Calculator
   - Designed and implemented a simple CPU using FPGA logic.
   - Includes an ALU, control unit, input module, and output module.
     
