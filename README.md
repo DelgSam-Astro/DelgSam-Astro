@@ -1,7 +1,7 @@
 # Samuel Delgado
 
 ## About Me
-I am a computer engineering college student with a strong focus on Linux, AI, robotics, embedded systems, and hardware integration. I enjoy taking projects from concept to implementation, especially where software and hardware intersect.
+I am a computer engineering college student with a strong focus on Linux, AI, robotics, embedded systems, and hardware integration. I enjoy taking projects from concept to implementation, especially combining software and hardware.
 
 ## Skills
 - C
