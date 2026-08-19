@@ -4,18 +4,13 @@
 I am a computer engineering college student with a strong focus on Linux, AI, robotics, embedded systems, and hardware integration. I enjoy taking projects from concept to implementation, especially combining software and hardware.
 
 ## Skills
-- C
-- C#
-- Python
-- Java
-- HTML
-- Assembly
-- SystemVerilog HDL
 - Linux installation, configuration, and desktop customization
 - Python development for automation, AI integration, and local web applications
 - SystemVerilog and digital design for FPGA-based CPU and logic systems
 - AI/ML experimentation, prompt engineering, and assistant-driven development
 - Hardware repair, assembly, and system-level troubleshooting
+### Languages
+- C, C#, Python, Java, HTML, Assembly, SystemVerilog
 
 ## Hardware Projects
 - AI-enabled home security system (WIP)
