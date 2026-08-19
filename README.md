@@ -43,10 +43,11 @@ I am a computer engineering college student with a strong focus on Linux, AI, ro
   - The assistant helps with package management, system commands, and development tasks directly in the terminal environment.
   - Designed the tool to improve productivity and streamline local development through conversational AI trained on local hardware and software.
 
-- PC part recommendation application
-  - Built a locally hosted application inspired by PCPartPicker that recommends hardware based on user project goals.
-  - The program accepts project descriptions, proposes compatible components, suggests shopping sites, and helps users assemble a complete system.
+- Engineer Project Planner/Workspace W/ AI assistant (WIP)
+  - Built a locally hosted application that recommends hardware based on user project goals.
+  - The program accepts project descriptions, proposes compatible components, suggests shopping sites, and helps users assemble a complete system while developing a project workflow for them to form a guide for the user as they navigate their new project.
   - Integrated AI reasoning to match hardware recommendations with use case requirements and budget considerations.
+  - Web version in development
 
 ## Contact
 - Email: nothing yet
