@@ -13,7 +13,7 @@ I am a computer engineering college student with a strong focus on Linux, AI, ro
 - C, C#, Python, Java, HTML, Assembly, SystemVerilog
 
 ## Hardware Projects
-- AI-enabled home security system (WIP)
+#### AI-enabled home security system (WIP)
   - Developing a prototype security system with motion detection and user recognition.
   - When a door opens, the system captures an image and checks it against a user database.
   - If the person is not recognized, the design includes tracking movement and responding with a laser targeting feature.
