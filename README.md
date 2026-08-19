@@ -18,27 +18,27 @@ I am a computer engineering college student with a strong focus on Linux, AI, ro
   - When a door opens, the system captures an image and checks it against a user database.
   - If the person is not recognized, the design includes tracking movement and responding with a laser targeting feature.
 
-- FPGA-based CPU
+#### FPGA-based CPU
   - 8 bit - two Function Calculator
   - Designed and implemented a simple CPU using FPGA logic.
   - Includes an ALU, control unit, input module, and output module.
     
-- Laptop rebuild and Linux customization
+#### Laptop rebuild and Linux customization
   - Repaired a laptop from scratch, installed new hardware components, and configured a customized Linux environment.
   - Optimized the system for AI and embedded projects.
 
-- AI-assisted trashcan prototype (hackathon)
+#### AI-assisted trashcan prototype (hackathon)
   - Developed a proof-of-concept trash detection system within 24 hours at a hackathon.
   - The prototype uses AI to determine whether an object placed inside is trash or recyclable.
   - Designed the system to improve sorting accuracy and provide a practical AI-driven environmental solution.
 
 ## Software Projects
-- AI terminal assistant - Locally hosted
+#### AI terminal assistant - Locally hosted
   - Created a terminal-based AI assistant to support development workflows and provide command-line guidance.
   - The assistant helps with package management, system commands, and development tasks directly in the terminal environment.
   - Designed the tool to improve productivity and streamline local development through conversational AI trained on local hardware and software.
 
-- Engineer Project Planner/Workspace W/ AI assistant (WIP)
+#### Engineer Project Planner/Workspace W/ AI assistant (WIP)
   - Built a locally hosted application that recommends hardware based on user project goals.
   - The program accepts project descriptions, proposes compatible components, suggests shopping sites, and helps users assemble a complete system while developing a project workflow for them to form a guide for the user as they navigate their new project.
   - Integrated AI reasoning to match hardware recommendations with use case requirements and budget considerations.
